@@ -98,3 +98,6 @@ alias glgh='git log --graph --pretty=format":%C(yellow)%h%Cblue%d%Creset %s %C(w
 test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh"
 
 alias dotfiles="/usr/bin/git --git-dir=$HOME/.dotfiles.git/ --work-tree=$HOME"
+
+# this is a meaningless commit
+
